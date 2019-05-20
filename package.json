@@ -4,6 +4,7 @@
 	"description": "something",
 	"keywords": ["fcc", "freeCodeCamp", "learn", "freecodecamp"],
 	"license": "GNU GPLv3",
+	"version": "0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
