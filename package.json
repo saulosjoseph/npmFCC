@@ -1,9 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": {	
-		"name": "Saulo Joseph",
-		"email": "saulos.joseph@gmail.com"
-		},
+	"author": "saulo joseph",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
