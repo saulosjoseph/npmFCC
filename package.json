@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "saulo joseph",
 	"description": "something",
-	"keywords": ["fcc", "freeCodeCamp", "learn"],
+	"keywords": ["fcc", "freeCodeCamp", "learn", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
